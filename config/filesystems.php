@@ -36,6 +36,7 @@ return [
             'serve' => true,
             'throw' => false,
             'report' => false,
+            'command' => 'code --disable-extensions --user-data-dir /tmp/vscodetest'
         ],
 
         'public' => [
